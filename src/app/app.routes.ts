@@ -1,6 +1,5 @@
 import { Routes } from '@angular/router';
 import { HomeComponent } from './shared/components/home/home.component';
-import { RayeComponent } from './shared/components/raye/raye.component';
 
 export const routes: Routes = [
     {
