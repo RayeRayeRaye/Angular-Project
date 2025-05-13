@@ -1,5 +1,8 @@
 # AngularProject
 
+![image](https://github.com/user-attachments/assets/bd15c61f-b64a-438a-86d6-ecbb3019a10b)
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.10.
 
 ## Development server
